@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MindiaShantadze02
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/mindia.shantadze.790/
 
 <!---
