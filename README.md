@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MindiaShantadze02
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning ReactJS, VueJS, PHP
+- 🌱 I’m currently learning ReactJS, NodeJS
 - 📫 How to reach me https://www.facebook.com/mindia.shantadze.790/
 
 <!---
